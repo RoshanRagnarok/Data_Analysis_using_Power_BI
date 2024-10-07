@@ -7,7 +7,7 @@ This repository contains the source code and files for a house price analysis da
 The primary objective of this project is to create an interactive dashboard that allows users to explore and analyze factors influencing house prices. By visualizing key metrics and trends, users can gain valuable insights into the housing market, enabling informed decision-making for buyers, sellers, and real estate professionals.
 
 ## 💫Final Output
-![image](https://github.com/NishadiSS/House-Price-Analysis-Power-BI/assets/119886016/d96a7f29-b603-4e5e-8204-6a6102ceee8a)
+![image](https://github.com/RoshanRagnarok/Data_Analysis_using_Power_BI/blob/main/dash_board.png)
 
 
 ## 💫Features:
